@@ -1,0 +1,14 @@
+{
+  "name": "greenzone-mobile",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "~49.0.0",
+    "react": "18.2.0",
+    "react-native": "0.72.3",
+    "expo-web-browser": "~12.0.0"
+  },
+  "scripts": {
+    "start": "expo start"
+  }
+}
